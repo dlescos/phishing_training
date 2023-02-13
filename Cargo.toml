@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "phishing_test_server",
+    "phishing_test_client",
+]
+
